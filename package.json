@@ -1,0 +1,22 @@
+{
+  "name": "@prakis/tinydatabase",
+  "version": "1.0.0",
+  "description": "A simple and tinydatabase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakis/tinydatabase-nodejs.git"
+  },
+  "author": "Kishore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://tinydatabase.com"
+  },
+  "homepage": "https://github.com/prakis/tinydatabase-nodejs#readme",
+  "keywords": [
+    "TinyDatabase"
+  ]  
+}
