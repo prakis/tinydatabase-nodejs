@@ -1,5 +1,5 @@
 {
-  "name": "@prakis/tinydatabase",
+  "name": "tinydatabase-nodejs",
   "version": "1.0.0",
   "description": "A simple and tinydatabase",
   "main": "index.js",
